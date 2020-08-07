@@ -24,9 +24,7 @@ At least for the present, the apps are NOT sandboxed. There is a Log Viewer choi
 
 I started this project (years ago) hoping that by making a Mac-native version of FlexLib (TM) that others would use it to create other Mac software for use with Flex radios. So far two hams have done that; Mario (DL3LSM, author of xDAX, xCAT and xKey, https://dl3lsm.blogspot.com) and Pete (W6OP, author of xVoiceKeyer and xCW, https://w6op.com). Please give their apps a try.
 
-I welcome your feedback on the software, good or bad, and any suggestions you may have for improving it. Please send all your comments to:
-
-    support@k3tzr.net
+I welcome your feedback on the software, good or bad, and any suggestions you may have for improving it. Please send all your comments to the email address below.
 
 73's Doug, K3TZR
 
