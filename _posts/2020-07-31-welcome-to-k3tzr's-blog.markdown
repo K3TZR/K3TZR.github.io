@@ -26,7 +26,7 @@ I started this project (years ago) hoping that by making a Mac-native version of
 
 I welcome your feedback on the software, good or bad, and any suggestions you may have for improving it. Please send all your comments to:
 
-    douglas.adams@me.com
+    support@k3tzr.net
 
 73's Doug, K3TZR
 
