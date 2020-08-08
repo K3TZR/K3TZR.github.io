@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to K3TZR's blog"
-date:   2020-07-24 16:00:00 -0400
+date:   2020-07-31 16:00:00 -0400
 categories: jekyll update
 ---
 Thank you for visiting this site. As many of you already know, my GitHub repos  https://github.com/K3TZR, host three Mac-native, open-source projects for Amateur Radio. They are:
