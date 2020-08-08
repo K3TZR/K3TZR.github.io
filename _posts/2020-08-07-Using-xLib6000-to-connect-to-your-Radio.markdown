@@ -10,14 +10,14 @@ Instead of a manual I've prepared an example. It turns out that a Non-Gui connec
 
     xLibSimpleExample
 
-You can find it, both sorce code and and executable, at [xLibSimpleExample](https://github.com/K3TZR/xLibSimpleExample)
+You can find the sorce code at [xLibSimpleExample](https://github.com/K3TZR/xLibSimpleExample)  
+For an executable version look at the [Current Release](https://github.com/K3TZR/xLibSimpleExample/releases/tag/v1.0.1) page.
 
 The app works with both the old, API radios ( version < 2.6) as well as the new API (version >= 2.6). The principal difference being that in the old API you did not have to "bind" to a "station".
 
-It's written using SwiftUI (I needed the practice) but all of the code that demonstrates how to connect can be found in the RadioManager.swift file. Look at the ***Connect ***and the ***Disconnect*** methods. If you are using a New API radio, you also need to look at the ***Bind*** and the ***Unbind*** methods.
+It's written using SwiftUI (I needed the practice) but all of the code that demonstrates how to connect can be found in the RadioManager.swift file. Look at the ***Connect*** and the ***Disconnect*** methods. If you are using a New API radio, you also need to look at the ***Bind*** and the ***Unbind*** methods.
 
-
-I've made an attempt to make the code as simple as possible. I've also commented almost every line.
+There are instructions for using the app in the README.md file as well as in the source code. I've made an attempt to make the code as simple as possible. I've also commented almost every line.
 
 Let me know if it was helpful.
 
