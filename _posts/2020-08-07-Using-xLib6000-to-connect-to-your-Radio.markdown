@@ -10,7 +10,7 @@ Instead of a manual I've prepared an example. It turns out that a Non-Gui connec
 
     xLibSimpleExample
 
-You can find it, both sorce code and and executable, at (https://github.com/K3TZR/xLibSimpleExample)
+You can find it, both sorce code and and executable, at [xLibSimpleExample](https://github.com/K3TZR/xLibSimpleExample)
 
 The app works with both the old, API radios ( version < 2.6) as well as the new API (version >= 2.6). The principal difference being that in the old API you did not have to "bind" to a "station".
 
